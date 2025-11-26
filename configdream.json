@@ -1,0 +1,13 @@
+{
+  "autoRole": "",
+  "embedPreview": true,
+  "targetGuildId": "",
+  "checkVpn": false,
+  "checkProxy": false,
+  "checkAlt": false,
+  "autoCall": {
+    "enabled": false,
+    "categoryId": "",
+    "guildId": ""
+  }
+}

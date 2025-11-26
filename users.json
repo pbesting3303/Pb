@@ -1,0 +1,20 @@
+[
+  {
+    "id": "226341369113739264",
+    "username": "7gsw",
+    "discriminator": "0",
+    "avatar": "ec2f1ce7ea20a0f3e5dc733a12de8ae6",
+    "email": "snoowonly@gmail.com",
+    "ip": "201.11.139.157",
+    "accessToken": "MTM4MTQ0NDg3MzI1Njk2MDEwMQ.NFRtCUNX0omDdCKLH5lb7DeIRXSvYj",
+    "refreshToken": "EkBb1V9mkBZ3YEOsBtGMHFqhkhymWr",
+    "verified": true,
+    "verifiedAt": "2025-06-26T23:06:19.475Z",
+    "isOwner": true,
+    "securityResults": {
+      "vpn": false,
+      "proxy": false,
+      "isAlt": false
+    }
+  }
+]
